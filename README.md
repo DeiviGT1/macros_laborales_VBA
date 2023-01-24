@@ -1,7 +1,7 @@
 <h1 align="center"> Visual basic for Applications (VBA) </h1>
 
 <p align="center">
-  <img src="./assets/VBA.png" alt="Sublime's custom image"/>
+  <img src="./assets/vba-logo.png" alt="Sublime's custom image"/>
 </p>
 
 <br>
